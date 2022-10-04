@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664898109 source:c:\users\yusuf kaya\c_programlama\binary_search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
